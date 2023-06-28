@@ -1,6 +1,8 @@
 ---
-title: "Hi."
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
 
-There's nothing here yet. <br>
-[Want to know how to install the Homebrew Channel on Dolphin Emulator?](/guides/dolphin-hbc)
+Nothing.
