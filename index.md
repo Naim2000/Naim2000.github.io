@@ -3,4 +3,4 @@
 
 [Changing an MKW save file region](/guides/mkw-save-region-change)
 
-[Wiimmfi Auto Patcher on Dolphin](/guides/dolphin-wiimmfi)
+[Wiimmfi Auto Patcher on Dolphin](/guides/dolphin-wiimmfi-autopatcher)
