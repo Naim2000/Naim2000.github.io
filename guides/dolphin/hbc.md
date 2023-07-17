@@ -14,8 +14,8 @@ This guide will show you how to install the Homebrew Channel on Dolphin Emulator
 1. Download the `Open_HBC_1.1.5_LULZ.wad` file from the Open Homebrew Channel page.
 1. Open Dolphin Emulator.
 1. Select `Tools > Install WAD` and select the `Open_HBC_1.1.5_LULZ.wad` you downloaded.
-1. Select `Tools > Load Wii System Menu`. The channel should now appear on the Wii menu. <br>
-If you do not have the Wii menu, get it from `Tools > Perform Online System Update`.
+1. Select `Tools > Load Wii System Menu`. The channel should now appear on the Wii menu.
+  * If you do not have the Wii menu, get it from `Tools > Perform Online System Update`.
 
 ### Getting Homebrew apps
 

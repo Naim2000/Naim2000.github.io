@@ -1,13 +1,9 @@
-# Guides
+---
+title: "Naim2000"
+---
 
-## Dolphin Emulator
+## Hey.
 
-[Installing the Homebrew Channel on Dolphin Emulator](/guides/dolphin/hbc)
+This is Naim2000. And this is my discord -> [thepikachugamer](https://discord.com/users/260140600597151745)
 
-[Installing Priiloader on Dolphin](/guide/dolphin/priiloader)
-
-[Wiimmfi Auto Patcher on Dolphin](/guides/dolphin/wiimmfi-autopatcher)
-
-## Other 
-
-[Changing an MKW save file region](/guides/mkw-save-region-change)
+Check out [some guides I made](/guides). That's the whole point of this thing anyways.
