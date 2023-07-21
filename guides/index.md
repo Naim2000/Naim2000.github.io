@@ -4,7 +4,7 @@
 
 [Installing the Homebrew Channel on Dolphin Emulator](/guides/dolphin/hbc)
 
-[Installing Priiloader on Dolphin](/guide/dolphin/priiloader)
+[Installing Priiloader on Dolphin](/guides/dolphin/priiloader)
 
 [Wiimmfi Auto Patcher on Dolphin](/guides/dolphin/wiimmfi-autopatcher)
 
