@@ -6,7 +6,7 @@ This guide will show you how to install the Homebrew Channel on Dolphin Emulator
 ![HBC on Dolphin](/res/image/dolphin-hbc.png)
 
 ### Prerequisites
-- A development version of [Dolphin Emulator](https://dolphin-emu.org/)
+- A beta version of [Dolphin Emulator](https://dolphin-emu.org/)
 - [Open Homebrew Channel](https://github.com/Wii-Mini-Hacking/hbc/releases)
 
 ### Installing the Homebrew Channel
@@ -22,8 +22,7 @@ This guide will show you how to install the Homebrew Channel on Dolphin Emulator
 1. Download your desired homebrew app(s).
   - You can find homebrew apps at the [Open Shop Channel](https://oscwii.org/), or you can get the [Open Shop Channel homebrew app](https://wii.guide/hbb) itself.
 1. Stop the emulation (if running), then open the `Config > Wii` window in Dolphin Emulator.
-1. Enable `Automatically Sync with Folder`.
-  - You may also wish to adjust the `SD Card File Size`. This option has not reached the beta releases yet. ([5.0-19479](https://dolphin-emu.org/download/dev/ca484c7a650449373ac15e96ec06066b6420b0c9/))
+1. Enable `Automatically Sync with Folder`. You may also wish to adjust the `SD Card File Size`.
 1. Copy and paste the `SD Sync Folder` path into the Start menu to open it.
 1. Extract the homebrew apps to the SD Sync folder. <br>
 The homebrew apps should look like this:
