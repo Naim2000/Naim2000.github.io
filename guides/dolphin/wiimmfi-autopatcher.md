@@ -1,11 +1,10 @@
----
-title: "Wiimmfi Auto Patcher on Dolphin Emulator"
----
+# Wiimmfi Auto Patcher on Dolphin Emulator
 
 The Wiimmfi Auto patcher is an application that applies runtime patches to the game inserted to the disc drive. <br>
 This is particularly nice on Dolphin because:
 - You don't have to use twice the amount of space for a Wiimmfi-patched copy
 - It's fast
+- You get to increase MEM1 without the game freezing :D <sub>if you need this then something's wrong</sub>
 
 However, you're still going to need _your_ NAND backup.
 

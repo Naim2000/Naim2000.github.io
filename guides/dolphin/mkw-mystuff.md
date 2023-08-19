@@ -1,9 +1,6 @@
----
-title: "MKW My Stuff on Dolphin Emulator"
----
+# My Stuff in Dolphin Emulator
 
-This is something people ask about often. Which is fair, because using Dolphin is extremely convenient for testing out mods like this.
-And I recommend this over the extracted ISO method for the same reason I recommend the [Wiimmfi Auto Patcher](wiimmfi-autopatcher) - you don't have to waste space on another copy.
+This is something people ask about often. Which is fair, because using Dolphin is extremely convenient for testing out game mods like this.
 
 ### Prerequisites
 

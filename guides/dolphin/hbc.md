@@ -1,6 +1,4 @@
----
-title: "Installing the Homebrew Channel on Dolphin Emulator"
----
+# Installing the Homebrew Channel on Dolphin Emulator
 
 This guide will show you how to install the Homebrew Channel on Dolphin Emulator.
 ![HBC on Dolphin](/res/image/dolphin-hbc.png)

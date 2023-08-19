@@ -1,6 +1,4 @@
----
-title: "Installing Priiloader on Dolphin Emulator"
----
+# Installing Priiloader on Dolphin Emulator
 
 This guide will show you how to set up Priiloader on Dolphin Emulator. I'm assuming you already [installed the Homebrew Channel](/guides/dolphin-hbc).
 
