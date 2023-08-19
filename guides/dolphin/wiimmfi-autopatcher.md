@@ -1,5 +1,5 @@
 ---
-title: "Wiimmfi Auto Patcher on Dolphin"
+title: "Wiimmfi Auto Patcher on Dolphin Emulator"
 ---
 
 The Wiimmfi Auto patcher is an application that applies runtime patches to the game inserted to the disc drive. <br>
