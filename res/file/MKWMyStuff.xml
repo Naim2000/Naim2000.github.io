@@ -1,0 +1,24 @@
+<wiidisc version="1">
+	<id game="RMC" />
+	<options>
+		<section name="Mario Kart Wii">
+			<option name="My Stuff">
+				<choice name="Standard My Stuff">
+					<patch id="c_mystuff" />
+				</choice>
+				<choice name="Organized My Stuff">
+					<patch id="mystuff" />
+				</choice>
+			</option>
+		</section>
+	</options>
+
+	<patch id="mystuff">
+		<folder external="/MKW Stuff" disc="/" recursive="true" />
+	</patch>
+
+	<patch id="c_mystuff">
+		<folder external="/MKW Stuff" recursive="false" />
+		<folder external="/MKW Stuff" disc="/" />
+	</patch>
+</wiidisc>

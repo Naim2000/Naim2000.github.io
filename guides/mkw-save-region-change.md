@@ -25,7 +25,7 @@ Your `rksys.dat` will be found in the `data` folder.
 
 ### Section II: Converting rksys.dat
 
-1. Go to <https://www.tt-rec.com/ghostmanager>.
+1. Go to [TT-REC Ghost Manager](https://www.tt-rec.com/ghostmanager).
 1. Upload your `rksys.dat` file.
 1. Click the dropdown at the bottom right and select your desired region.
 1. Press the Save & Download button.
