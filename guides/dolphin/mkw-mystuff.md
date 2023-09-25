@@ -18,8 +18,7 @@ This is something people ask about often. Which is fair, because using Dolphin i
 1. Place all your mod files into `MKW Stuff`.
 1. In the main Dolphin window, right click Mario Kart Wii and select `Start with Riivolution Patches...`
 ![Start with Riivolution Patches...](/res/image/dolphin-riivo-patches.png)
-1. Set the `My Stuff` option to `Standard My Stuff` option.
-  * The `Organized My Stuff` option is if you would like to directly mimic the folder structure on the disc.
+1. Set the `My Stuff` option to `Enabled`.
 1. If you'd like to, click the `Save as Preset...` button to add your My Stuff entry to the game list.
 1. Select `Start`. 
 
