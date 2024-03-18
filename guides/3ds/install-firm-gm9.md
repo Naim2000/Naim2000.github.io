@@ -8,7 +8,7 @@ If you stumbled upon this page from a Google search(!?!?), please [try install b
 If you have any troubles with it, *consult the troubleshooting sections or ask for help*. Please don't use this page as a second resort.
 
 ## Prerequisites
-- Your 3DS in GodMode9.
+- Your 3DS in GodMode9. **NOTE: Installing FIRM files was only added in GodMode9 v1.4.0.**
 - An SD card in your 3DS.
 - A FIRM to install.
 	- For example, [boot9strap](https://github.com/SciresM/boot9strap/releases/latest){:target="_blank"}, or [fastboot3DS](https://github.com/derrekr/fastboot3DS/releases/latest){:target="_blank"}.
