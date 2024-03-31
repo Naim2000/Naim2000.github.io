@@ -34,7 +34,7 @@ If it does NOT say verification succeeded, **STOP.** Copy the file to your SD ca
 1. Press (START) to reboot your console.
 
 If the SysNAND lvl3 writing prompt scared you, then that's great!
-As of this writing, there have been `3` incidents of users installing [finalize_helper.firm](https://3ds.hacks.guide/finalizing-setup){:target="_blank"} to FIRM with no remorse.
+As of this writing, there have been `5` incidents of users installing [finalize_helper.firm](https://3ds.hacks.guide/finalizing-setup){:target="_blank"} to FIRM with no remorse.
 
 In the event this happens to you, download a normal build of GodMode9 (or, the [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/latest){:target="_blank"}) and put it on your SD card as `iderped.firm`.
 (See: [GodMode9/arm9/source/godmode.c#3083-3085](https://github.com/d0k3/GodMode9/blob/master/arm9/source/godmode.c#L3083){:target="_blank"}.)
